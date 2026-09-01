@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Blue T-Shirt",
+    "category": "Men's Shirts",
+    "price": 29.99,
+    "description": "Comfortable and durable cotton t-shirt perfect for daily wear",
+    "image": "blue-tshirt.jpg",
+    "stock": 150,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Premium White Polo",
+    "category": "Men's Shirts",
+    "price": 49.99,
+    "description": "Elegant polo shirt made from high-quality fabric",
+    "image": "white-polo.jpg",
+    "stock": 85,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Black Casual Shirt",
+    "category": "Men's Shirts",
+    "price": 39.99,
+    "description": "Versatile black shirt suitable for casual and semi-formal occasions",
+    "image": "black-shirt.jpg",
+    "stock": 120,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Striped Summer Shirt",
+    "category": "Men's Shirts",
+    "price": 34.99,
+    "description": "Light and breathable striped shirt perfect for summer",
+    "image": "striped-shirt.jpg",
+    "stock": 95,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Red V-Neck T-Shirt",
+    "category": "Men's Shirts",
+    "price": 24.99,
+    "description": "Stylish red v-neck t-shirt with a modern cut",
+    "image": "red-vneck.jpg",
+    "stock": 200,
+    "rating": 4.4
+  }
+]
